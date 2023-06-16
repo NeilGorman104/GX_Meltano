@@ -44,7 +44,7 @@ datasources:
         username: ${USER_NAME}
         database: ${DATABASE_NAME}
         query:
-          #schema: MELTANO_SALESFORCE # not necassary... i think
+          schema: MELTANO_SALESFORCE # not necassary... i think
           warehouse: ${WAREHOUSE_NAME}
           role: ${ROLE_NAME}
         password: ${PASSWORD}
