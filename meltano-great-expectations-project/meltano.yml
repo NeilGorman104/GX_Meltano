@@ -1,0 +1,17 @@
+version: 1
+default_environment: dev
+project_id: 44b913fb-b7a5-4379-bc87-24a34cb7be5c
+plugins:
+  utilities:
+  - name: great_expectations
+    variant: great-expectations
+    pip_url: great_expectations==0.15.50
+environments:
+- name: dev
+  config:
+    plugins:
+      utilities:
+      - name: great_expectations
+        pip_url: great_expectations; sqlalchemy; snowflake-connector-python; snowflake-sqlalchemy
+- name: staging
+- name: prod
