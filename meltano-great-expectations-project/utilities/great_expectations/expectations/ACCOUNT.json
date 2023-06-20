@@ -1,0 +1,505 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "ACCOUNT",
+  "expectations": [
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "accountnumber"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "accountsource"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "active__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "annualrevenue"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billingaddress"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billingcity"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billingcountry"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billinggeocodeaccuracy"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billinglatitude"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billinglongitude"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billingpostalcode"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billingstate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "billingstreet"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "cleanstatus"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "createdbyid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "createddate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "customerpriority__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "dandbcompanyid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "description"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "dunsnumber"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "fax"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "id"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "industry"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "isdeleted"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "jigsaw"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "jigsawcompanyid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "lastactivitydate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "lastmodifiedbyid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "lastmodifieddate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "lastreferenceddate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "lastvieweddate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "masterrecordid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "naicscode"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "naicsdesc"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "name"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "numberofemployees"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "numberoflocations__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "operatinghoursid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "ownerid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "ownership"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "parentid"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "phone"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "photourl"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "rating"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "slaexpirationdate__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "slaserialnumber__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "sla__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippingaddress"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippingcity"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippingcountry"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippinggeocodeaccuracy"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippinglatitude"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippinglongitude"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippingpostalcode"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippingstate"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "shippingstreet"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "sic"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "sicdesc"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "site"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "systemmodstamp"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "tickersymbol"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "tradestyle"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "type"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "upsellopportunity__c"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "website"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "yearstarted"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "_sdc_batched_at"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "_sdc_deleted_at"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_null",
+      "kwargs": {
+        "column": "_sdc_extracted_at"
+      },
+      "meta": {}
+    }
+  ],
+  "ge_cloud_id": null,
+  "meta": {
+    "citations": [
+      {
+        "batch_request": {
+          "data_asset_name": "ACCOUNT",
+          "data_connector_name": "default_configured_data_connector_name",
+          "datasource_name": "meltano_salesforce",
+          "limit": 1000
+        },
+        "citation_date": "2023-06-20T15:56:08.704704Z",
+        "comment": "Created suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.15.50"
+  }
+}
